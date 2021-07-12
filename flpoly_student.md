@@ -21,4 +21,13 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/07
+| **Course** | **Course Name**                    | **Credits** |
+|:----------:|:--------------:                    |:-----------:|
+|**MAC1147** | _Precalculus Algebra/Trigonometry_ |     4       |
+|**COP2073** | _Introduction to Data Science_     |     3       |
+
+[My GitHub Repo](https://github.com/JoseNpoly/practice-repo)
+
+![My GitHub Repo Image](C:\Users\iidev\Pictures\repo.JPG)
+
+> Last modified: 2021/07/12
